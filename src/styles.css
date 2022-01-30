@@ -1,4 +1,12 @@
-.App {
+* {
   font-family: sans-serif;
-  text-align: center;
+  /*text-align: center;*/
+}
+.d-work {
+  display: flex;
+  /*flex-direction: row;*/
+}
+.ofisPic {
+  height: 250px;
+  width: 200px;
 }
