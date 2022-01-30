@@ -9,4 +9,8 @@
 .ofisPic {
   height: 250px;
   width: 200px;
+  padding: 20px 40px;
+}
+nav {
+  align-items: center;
 }
