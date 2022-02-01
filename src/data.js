@@ -4,7 +4,7 @@ export default [
     employer: "GetIt Inc",
     startDate: "August 13, 2013",
     endDate: "Decemeber 5, 2021",
-    jobTitle: "Developer",
+    jobTitle: "Senior Developer",
     pros:
       "The pros of working here inlucde: Very competitive salary, free lunch, game room, great benefits",
     cons:
@@ -32,11 +32,11 @@ export default [
     employer: "Quick n Safe",
     startDate: "July 13, 1992",
     endDate: "February 5, 1998",
-    jobTitle: "Developer",
+    jobTitle: "Junior Developer",
     pros:
       "The pros of working here inlucde: Great potential for growth, a fully stocked snack room.",
     cons: "Revolving door",
-    startPay: 850100,
+    startPay: 85100,
     officePic: "xplain-d-mess.jpg",
     workCulture: "people driven, safe"
   }

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Work(prop) {
   return (
-    <section>
+    <section className="d-work">
       <span>
         <img
           src={`../images/${prop.officePic}`}
@@ -23,6 +23,9 @@ export default function Work(prop) {
         </p>
       </div>
       <p>{prop.workCulture}</p>
+      <p>
+        <b>{prop.startPay}</b>
+      </p>
     </section>
   );
 }

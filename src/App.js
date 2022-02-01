@@ -14,7 +14,7 @@ export default function App() {
         jobTitle={item.jobTitle}
         pros={item.pros}
         cons={item.cons}
-        startPay={item.starPay}
+        startPay={item.startPay}
         officePic={item.officePic}
         workCulture={item.workCulture}
       />
